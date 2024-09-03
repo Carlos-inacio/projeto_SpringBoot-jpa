@@ -1,3 +1,4 @@
+//Recurso Web para a classe User
 package com.aprendendoSpringBoot.course.resources;
 
 import org.springframework.http.ResponseEntity;
